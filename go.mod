@@ -1,4 +1,4 @@
-module github.com/libdns/template
+module github.com/henrikvtcodes/libdns-bunny
 
 go 1.18
 
